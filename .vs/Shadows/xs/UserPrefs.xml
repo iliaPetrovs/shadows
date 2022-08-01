@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{07A54A35-C5A1-E3BD-DCE8-F6F81C6ABED8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WeaponController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerScript.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/ProjectileShooter.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/Projectile.cs" />
+      <File FileName="Assets/Scripts/ThirdPersonMovement.cs" />
+      <File FileName="Assets/Scripts/WeaponController.cs" Line="7" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shadows" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="WeaponController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1fca0a77-7079-405b-908d-d25451c70885" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
