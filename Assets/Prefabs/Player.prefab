@@ -441,12 +441,51 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controller: {fileID: 3213177758861246543}
   cam: {fileID: 0}
-  aimCam: {fileID: 0}
-  mainCam: {fileID: 0}
+  cameraLookAt: {fileID: 947447156844572045}
+  aimCam: {fileID: 2254659114618341707, guid: 0d9bf96027a224afaad08718ec2fd6ff, type: 3}
+  crossHair: {fileID: 4884400987510779481, guid: 1fcd160f2e02f4775a87670f3f43bc39, type: 3}
+  xAxis:
+    Value: 0
+    m_SpeedMode: 0
+    m_MaxSpeed: 0
+    m_AccelTime: 0
+    m_DecelTime: 0
+    m_InputAxisName: 
+    m_InputAxisValue: 0
+    m_InvertInput: 0
+    m_MinValue: 0
+    m_MaxValue: 0
+    m_Wrap: 0
+    m_Recentering:
+      m_enabled: 0
+      m_WaitTime: 0
+      m_RecenteringTime: 0
+      m_LegacyHeadingDefinition: 0
+      m_LegacyVelocityFilterStrength: 0
+  yAxis:
+    Value: 0
+    m_SpeedMode: 0
+    m_MaxSpeed: 0
+    m_AccelTime: 0
+    m_DecelTime: 0
+    m_InputAxisName: 
+    m_InputAxisValue: 0
+    m_InvertInput: 0
+    m_MinValue: 0
+    m_MaxValue: 0
+    m_Wrap: 0
+    m_Recentering:
+      m_enabled: 0
+      m_WaitTime: 0
+      m_RecenteringTime: 0
+      m_LegacyHeadingDefinition: 0
+      m_LegacyVelocityFilterStrength: 0
   runSpeed: 20
   walkSpeed: 6
+  aimSpeed: 1
   turnSmoothening: 0.1
   turnSmoothVelocity: 0
+  isAiming: 0
 --- !u!1 &3213177758879607407
 GameObject:
   m_ObjectHideFlags: 0
